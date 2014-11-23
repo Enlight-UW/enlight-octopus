@@ -1,0 +1,28 @@
++----------------------+
+|Enlight Octopus LED   |
+|Daughterboard Pinout  |
++----------------------+
+| Hardware PWM pins    |
++------+---------------+
+|  13  |  LED 1 Blue   |
+|  12  |  LED 2 Blue   |
+|  11  |  LED 3 Blue   |
+|  10  |  LED 4 Blue   |
+|   9  |  LED 1 Red    |
+|   8  |  LED 2 Red    |
+|   7  |  LED 3 Red    |
+|   6  |  LED 4 Red    |
+|   5  |  LED 1 Green  |
+|   4  |  LED 2 Green  |
+|   3  |  LED 3 Green  |
+|   2  |  LED 4 Green  |
++------+---------------+
+| Digital Pins         |
++------+---------------+
+|  42  |  LED 5 Blue   |
+|  52  |  LED 6 Blue   |
+|  44  |  LED 5 Red    |
+|  50  |  LED 6 Red    |
+|  46  |  LED 5 Green  |
+|  48  |  LED 6 Green  |
++------+---------------+
